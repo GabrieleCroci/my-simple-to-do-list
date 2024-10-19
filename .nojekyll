@@ -1,0 +1,5 @@
+cd percorso/del/tuo/repository
+touch .nojekyll
+git add .nojekyll
+git commit -m "Add .nojekyll to disable Jekyll build"
+git push
